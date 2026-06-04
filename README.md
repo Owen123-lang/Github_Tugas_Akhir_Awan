@@ -1,8 +1,6 @@
-# Github_Tugas_Akhir_Awan
+# Dokumentasi Implementasi Apache CloudStack Private Cloud dan Deployment JobIQ
 
-# Dokumentasi Walkthrough CloudStack Private Cloud Lab + Deployment JobIQ
-
-
+**Grup:** 8  
 **Topik:** Implementasi Apache CloudStack Private Cloud pada VMware Workstation
 **Tujuan Demo:** Membuat private cloud lokal yang dapat diakses melalui jaringan WiFi/hotspot, menjalankan instance Ubuntu, website nginx, dan aplikasi JobIQ.
 
